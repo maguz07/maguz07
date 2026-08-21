@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 Natural resources, knowledge, stories, sound
+- 🎓 PhD student @ MSU
+
 <!--
 **maguz07/maguz07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
